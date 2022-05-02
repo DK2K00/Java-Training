@@ -9,8 +9,6 @@ public class char_boolean_string {
     System.out.println(letter);
     System.out.println(uniCode);
 
-    boolean isOverTwentyone = true;
-
     //String is not a primitive datatype but a special class
     //which is basically a group of chars which is only limited by memory
     String trademark = "Trademark: ";
