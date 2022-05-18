@@ -4,10 +4,10 @@ public class Car {
 
   //Using private for encapsulation
   //These are called fields(instance varialbes)
-  private int doors;
-  private int wheels;
+  // private int doors;
+  // private int wheels;
   private String model;
-  private String colour;
+  //private String colour;
 
   //To protect encapsulation, we use methods for class access
   public void setModel(String model) {
